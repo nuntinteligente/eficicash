@@ -1,0 +1,11 @@
+id, date, description, amount, category
+1, 2023-01-01, Salary, 5000, Income
+2, 2023-01-15, Rent, -1500, Expense
+3, 2023-01-20, Groceries, -300, Expense
+4, 2023-01-25, Utilities, -200, Expense
+5, 2023-02-01, Freelance Work, 1200, Income
+6, 2023-02-10, Dining Out, -150, Expense
+7, 2023-02-15, Internet, -100, Expense
+8, 2023-02-28, Investment Income, 400, Income
+9, 2023-03-01, Car Payment, -350, Expense
+10, 2023-03-10, Insurance, -200, Expense
